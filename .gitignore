@@ -10,7 +10,7 @@ $ cat .gitignore
 __Previews/
 
 *.PrjPcbStructure
-
+*.Annotation
 #ignore Logs
 /Project Logs for*
 
