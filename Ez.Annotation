@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=GeneralEz.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=MCU.SchDoc
+UniqueIDPath1=\PPAVSKVJ
+SheetNumber1=2
+DocumentName2=Peripherals.SchDoc
+UniqueIDPath2=\YKTTLVRC
+SheetNumber2=4
+DocumentName3=Power.SchDoc
+UniqueIDPath3=\GSZWYVTR
+SheetNumber3=3
+DocumentName4=TENPeriph.SchDoc
+UniqueIDPath4=\IJDOVHAL
+SheetNumber4=5
+
+
