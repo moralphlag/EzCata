@@ -1,0 +1,31 @@
+$ cat .gitignore
+
+#
+#	ROOT FOLDER
+#
+#ignore all local History
+/History
+
+#ignore Preview foilder
+__Previews/
+
+*.PrjPcbStructure
+
+#ignore Logs
+/Project Logs for*
+
+#Don't ignore Database Messages
+!Database Messages.txt
+
+#
+#	OUTPUTS
+#
+#ignore all free files in folder Project Outputs...
+/Project Outputs for*/*.*
+#Exception - .xls files (GOSTBOM outputs)
+!/Project Outputs for*/*.xls
+#Ignore any PCB 3D Models (very big)
+/Project Outputs for*/ExportStep
+
+#ignore all manual named with 'Archieve' folders
+*Archive/
